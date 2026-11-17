@@ -1,0 +1,7 @@
+[general]
+name=AgroGrid
+description=Split field polygons with a movable, rotatable grid in QField
+author=AgroGrid
+version=0.1.5
+icon=icon.svg
+homepage=https://github.com/erse486/agrogrid
