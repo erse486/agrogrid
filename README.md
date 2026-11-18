@@ -7,7 +7,7 @@ AgroGrid splits a selected field into zones using a square grid. Set the cell ar
 Download [AgroGrid v0.1.5](dist/agrogrid-v0.1.5.zip), or copy the direct ZIP URL into **QField → Settings → Plugins → Install plugin from URL**. Then enable **AgroGrid** in the plugin manager.
 
 ```text
-https://raw.githubusercontent.com/erse486/agrogrid/v0.1.5/dist/agrogrid-v0.1.5.zip
+https://raw.githubusercontent.com/erse486/agrogrid/b46b3bdc14a0fdb4cceb45366c6fac3c2b9be61e/dist/agrogrid-v0.1.5.zip
 ```
 
 The English build uses the same plugin ID as AgroGrid 0.1.4. Installing it replaces the earlier AgroGrid in QField.
