@@ -1,0 +1,21 @@
+AgroGrid Polish 0.1.5 — Do czego służy
+
+AgroGrid to wtyczka do QField, która dzieli pole na strefy. Pomaga zaplanować
+pobieranie próbek gleby i uporządkować pracę w terenie według siatki dopasowanej
+do obrysu pola.
+
+1. Wybierz pole i ustaw docelową powierzchnię komórki, np. 1 ha.
+2. W trybie Siatka przeciągnij siatkę na mapie i obróć ją suwakiem Kąt.
+   Tryb Mapa pozwala przesuwać i przybliżać sam widok.
+3. W Podglądzie sprawdź granice, numery i powierzchnię stref. AgroGrid przycina
+   siatkę do granicy pola, więc strefy przy krawędzi mogą być mniejsze.
+4. Wybierz Zastosuj podział i potwierdź. Największy fragment zachowuje
+   identyfikator pola. Pozostałe strefy trafiają do tej samej warstwy.
+5. W menu Opcje wybierz Cofnij ostatni zapis stref, aby przywrócić pole,
+   jeśli strefy od zapisu pozostały bez zmian.
+
+W projekcie QFieldCloud opcja Prześlij zmiany lokalnie synchronizuje podział
+jako edycję warstwy. Wtyczka obsługuje edytowalne warstwy Polygon i MultiPolygon
+2D z wyłączonym grupowaniem transakcji projektu.
+
+Polskie wydanie 0.1.5 bazuje na polskim wydaniu 0.1.4.

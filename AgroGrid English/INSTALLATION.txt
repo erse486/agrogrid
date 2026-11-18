@@ -1,0 +1,20 @@
+AgroGrid English 0.1.5 — Installation in QField
+
+1. In QField, open the side dashboard and go to Settings → Plugins.
+2. Select Install plugin from URL. Paste this direct ZIP link:
+
+https://raw.githubusercontent.com/erse486/agrogrid/main/AgroGrid%20English/agrogrid-english-0.1.5.zip
+
+3. Enable AgroGrid English in the plugin manager and grant permission when prompted.
+   If another AgroGrid edition is enabled, turn it off so that only one edition is active.
+4. Open a project with an editable field polygon layer. Tap a field and choose
+   ⋮ → Split with grid. If several features are listed, open the intended field first.
+
+For QFieldCloud projects, configure the field layer for offline editing in QFieldSync.
+After saving a split, use the cloud menu → Upload local changes.
+
+QField plugin documentation
+https://docs.qfield.org/how-to/advanced-how-tos/plugins/
+
+QFieldCloud synchronization
+https://docs.qfield.org/get-started/tutorials/get-started-qfc/

@@ -1,0 +1,17 @@
+AgroGrid English 0.1.5 — What it does
+
+AgroGrid is a QField plugin for dividing a field into zones. It helps field teams
+plan soil sampling and organize fieldwork using a grid aligned with the field.
+
+1. Select a field and enter the target cell area in hectares, for example 1 ha.
+2. Use Grid to drag the grid on the map and Angle to rotate it. Use Map to pan or zoom.
+3. Open Preview to inspect the zone boundaries, numbering and areas. AgroGrid clips
+   the grid to the field boundary, so zones along the edge can be smaller.
+4. Choose Apply split and confirm. The largest fragment keeps the original
+   feature ID. The remaining zones are added to the same layer.
+5. Use Options → Undo last split to restore the field if the split zones
+   have stayed unchanged.
+
+In a QFieldCloud project, Upload local changes syncs the split as a layer edit.
+AgroGrid requires an editable 2D Polygon or MultiPolygon layer with project
+transaction grouping disabled.

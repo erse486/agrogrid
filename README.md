@@ -2,15 +2,14 @@
 
 AgroGrid splits a selected field into zones using a square grid. Set the cell area in hectares, slide or rotate the grid over the field, and preview the result before saving. The largest fragment keeps the original feature ID. The other fragments are added to the same layer.
 
-## Install
+## Choose your language / Wybierz język
 
-Download [AgroGrid v0.1.5](dist/agrogrid-v0.1.5.zip), or copy the direct ZIP URL into **QField → Settings → Plugins → Install plugin from URL**. Then enable **AgroGrid** in the plugin manager.
+| Edition | Install in QField | About AgroGrid |
+| --- | --- | --- |
+| [AgroGrid English 0.1.5](AgroGrid%20English/) | [Installation instructions](AgroGrid%20English/INSTALLATION.txt) | [Description](AgroGrid%20English/DESCRIPTION.txt) |
+| [AgroGrid Polish 0.1.5](AgroGrid%20Polish/) | [Instrukcja instalacji](AgroGrid%20Polish/INSTALACJA.txt) | [Opis wtyczki](AgroGrid%20Polish/OPIS.txt) |
 
-```text
-https://raw.githubusercontent.com/erse486/agrogrid/b46b3bdc14a0fdb4cceb45366c6fac3c2b9be61e/dist/agrogrid-v0.1.5.zip
-```
-
-The English build uses the same plugin ID as AgroGrid 0.1.4. Installing it replaces the earlier AgroGrid in QField.
+Enable one AgroGrid edition at a time in QField. Włącz jedną wersję AgroGrid w QField.
 
 ## Split a field
 

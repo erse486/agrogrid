@@ -1,0 +1,21 @@
+AgroGrid Polish 0.1.5 — Instalacja w QField
+
+1. Otwórz panel boczny QField i przejdź do Ustawienia → Wtyczki.
+2. Wybierz Zainstaluj wtyczkę z adresu URL i wklej bezpośredni link do ZIP-a:
+
+https://raw.githubusercontent.com/erse486/agrogrid/main/AgroGrid%20Polish/agrogrid-polish-0.1.5.zip
+
+3. Włącz AgroGrid Polish w menedżerze wtyczek i zatwierdź zgodę,
+   jeśli QField o nią poprosi. Jeśli masz włączoną inną wersję AgroGrid,
+   wyłącz ją, aby tylko jedna wersja była aktywna.
+4. Otwórz projekt z edytowalną warstwą pól. Stuknij pole i wybierz
+   ⋮ → Podziel siatką. Jeśli widzisz listę kilku obiektów, otwórz właściwe pole.
+
+W projekcie QFieldCloud ustaw warstwę pól w QFieldSync do edycji offline.
+Po zapisaniu podziału wybierz w menu chmury opcję Prześlij zmiany lokalnie.
+
+Dokumentacja wtyczek QField
+https://docs.qfield.org/how-to/advanced-how-tos/plugins/
+
+Synchronizacja QFieldCloud
+https://docs.qfield.org/get-started/tutorials/get-started-qfc/
